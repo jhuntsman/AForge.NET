@@ -20,6 +20,7 @@ using System.Reflection;
 namespace AForge.Controls
 {
     using Point = System.Drawing.Point;
+    using Math = System.Math;
 
     /// <summary>
     /// Color slider control.

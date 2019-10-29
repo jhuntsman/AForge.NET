@@ -17,6 +17,8 @@ using AForge.Imaging;
 
 namespace AForge.Controls
 {
+    using Math = System.Math;
+
     /// <summary>
     /// Hue picker control.
     /// </summary>

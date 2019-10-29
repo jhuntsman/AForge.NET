@@ -13,6 +13,8 @@ using System.Windows.Forms;
 
 namespace AForge.Controls
 {
+    using Math = System.Math;
+
     /// <summary>
     /// Manipulator control.
     /// </summary>
